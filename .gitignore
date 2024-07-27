@@ -14,3 +14,5 @@ edit
 /*build
 
 /src/version.aps
+/src/.vs
+/src/out
